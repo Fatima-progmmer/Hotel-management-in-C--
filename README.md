@@ -1,6 +1,6 @@
 # 🏨 Hotel Management System in C++
 
-This **Hotel Management System** is a **desktop application** built using **C# and .NET Framework** to help hotels efficiently manage bookings, customers, and rooms.
+This **Hotel Management System** is built using C++ to help hotels efficiently manage bookings, customers, and rooms.
 
 ## 📌 Features
 
